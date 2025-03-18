@@ -11,7 +11,17 @@ A Flutter mobile application for King Mongkut's University of Technology North B
 
 ## Screenshots
 
-*Add screenshots of your app here*
+<p align="center">
+  <img src="Screenshot_1742302541.png" width="300" alt="KMUTNB Website Screen">
+  <br>
+  <em>KMUTNB Website Screen - Access the university's website directly in the app</em>
+</p>
+
+<p align="center">
+  <img src="Screenshot_1742302545.png" width="300" alt="Campus Map Screen">
+  <br>
+  <em>Campus Map Screen - View the Faculty of Technology and Management location</em>
+</p>
 
 ## Requirements
 
