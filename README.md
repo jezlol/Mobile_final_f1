@@ -1,6 +1,6 @@
-# KMUTNB App
+# KMUTNB App - Final Exam Mobile Application
 
-A Flutter mobile application for King Mongkut's University of Technology North Bangkok (KMUTNB) that provides access to the university website and campus map.
+A Flutter mobile application created for the Final Exam of the Mobile Application Development subject at King Mongkut's University of Technology North Bangkok (KMUTNB). This app provides access to the university website and campus map.
 
 ## Features
 
