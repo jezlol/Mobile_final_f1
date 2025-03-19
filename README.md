@@ -78,15 +78,4 @@ A Flutter mobile application created for the Final Exam of the Mobile Applicatio
 - `lib/screens/webview_screen.dart` - WebView implementation for the KMUTNB website
 - `lib/screens/map_screen.dart` - Google Maps implementation showing campus location
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-
-- KMUTNB for providing educational resources
-- Flutter team for the amazing framework
